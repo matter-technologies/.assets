@@ -22,4 +22,4 @@ Base URL: [https://matter-technologies.github.io/.assets/](https://matter-techno
 
 ## Copyright
 
-Copyright &copy; 2023 [Matter Technologies](https://www.matter.tech/ "Matter Technologies website"). All Rights Reserved.
+Copyright &copy; 2025 [Matter Technologies](https://www.matter.tech/ "Matter Technologies"). All Rights Reserved.
